@@ -1,0 +1,15 @@
+{
+    "atomType": "Molecule",
+    "name": "Half_Round",
+    "x": 0,
+    "y": 0,
+    "uniqueID": "6a5692fa-b8c3-4710-9ee4-62da262135d4",
+    "ioValues": [],
+    "topLevel": true,
+    "allAtoms": [],
+    "allConnectors": [],
+    "unitsKey": "MM",
+    "fileTypeVersion": 1,
+    "compiledBom": {},
+    "filetypeVersion": 1
+}
